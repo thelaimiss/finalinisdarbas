@@ -9,7 +9,7 @@ def how_many_lines_has_excel():
 
     ws = wb[f"{sheet_names[0]}"]
 
-    a = 1
+    a = 1git
     size = []
 
     while True:
